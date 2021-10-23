@@ -1,0 +1,27 @@
+img{
+  height: 300px;
+  width:300px;
+}
+
+h1{
+  color: red;
+  font-size: 50px;
+  font-style: italic;
+}
+
+p{
+  color:blue;
+  font-size: 40px;
+  font-style: italic;
+}
+
+nav{
+  color:blue;
+  font-size: 30px;
+  font-style: oblique;
+}
+footer{
+  color:blue;
+  font-size: 30px;
+  font-style: oblique;
+}
